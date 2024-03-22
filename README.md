@@ -216,12 +216,12 @@ Exemplo de logs para o modelo de abstenção.
 
 1. Clonar o repositório:
 <pre>
-git clone https://github.com/allmeidaapedro/Enem-Analysis.git
+git clone https://github.com/allmeidaapedro/Enem-Modeling.git
 </pre>
 
 2. Navegar até o diretório do repositório clonado:
 <pre>
-cd Enem-Analysis
+cd Enem-Modeling
 </pre>
 
 3. Criar um ambiente virtual:

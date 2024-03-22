@@ -1,0 +1,1 @@
+Due to large files GitHub issues, the machine learning artifacts, such as raw data, training data, test data, validation data, models, preprocessors and so on are not included here. However, if you want to obtain them, just run "python src/pipeline_abstencao/train_pipeline.py" and "python src/pipeline_desempenho/train_pipeline.py".

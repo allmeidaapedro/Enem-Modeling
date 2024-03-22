@@ -242,6 +242,15 @@ pip install -r requirements.txt
 </pre>
 
 6. Executar a Aplicação:
+- Dado que não foi possível adicionar os artefatos do modelo, por conta de problemas do GitHub com arquivos grandes, execute os seguintes comandos para realizar a ingestão dos dados, transformação dos dados e treinamento do modelo de forma automatizada, obtendo os artefatos mencionados, necessários para realizar predições na Flask API:
+<pre>
+python src/pipeline_abstencao/train_pipeline.py
+</pre>
+
+<pre>
+python src/pipeline_desempenho/train_pipeline.py
+</pre>
+
 - Caso queira prever a nota de um candidato, execute:
 <pre>
 python app_desempenho.py
